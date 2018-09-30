@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://awillem.github.io/project-1-random-quote-generator/",
             "github_link": "https://github.com/awillem/project-1-random-quote-generator",
-            "image_urls": []
+            "image_urls": ["images/proj1_main.png", "images/proj1_1.png", "images/proj1_2.png", "images/proj1_3.png"]
         },
         {
             "id": 1,
@@ -16,16 +16,16 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://awillem.github.io/project-2-list-pagination/",
             "github_link": "https://github.com/awillem/project-2-list-pagination",
-            "image_urls": []
+            "image_urls": ["images/proj2_main.png", "images/proj2_1.png", "images/proj2_2.png", "images/proj2_3.png"]
         },
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "This project is a personal favorite of mine.  The HTML and CSS files provide with this project gave me the form that you see, and I add functionality and validation to it.  The form will not submit if it doesn't include 4 key pieces of information: Name, Email, 1 or more activities, and a valid payment method.  The email field has basic validation as you type.  The Job Role has an additional input field that appears if 'Other' is selected, while the T-shirt area will show a 'Color' selection once a tshirt design is selected.  The colors shown are specific to the tshirt design. The Register for Activities section requires at least one event selection, and only one activity in the same time slot can be selected.  As activities are selected, a Total appears under the activities.  Finally, the credit card requires all fields to be filled in, not contain letters, and must be a valid length.", 
+            "description": "This project is a personal favorite of mine.  The HTML and CSS files provided with this project gave me the form that you see, and I add functionality and validation to it.  The form will not submit if it doesn't include 4 key pieces of information: Name, Email, 1 or more activities, and a valid payment method.  The email field has basic validation as you type.  The Job Role has an additional input field that appears if 'Other' is selected, while the T-shirt area will show a 'Color' selection once a tshirt design is selected.  The colors shown are specific to the tshirt design. The Register for Activities section requires at least one event selection, and only one activity in the same time slot can be selected.  As activities are selected, a Total appears under the activities.  Finally, the credit card requires all fields to be filled in, not contain letters, and must be a valid length.", 
             "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
             "live_link": "https://awillem.github.io/project-3-interactive-form/",
             "github_link": "https://github.com/awillem/project-3-interactive-form",
-            "image_urls": []
+            "image_urls": ["images/proj3_main.png", "images/proj3_1.png", "images/proj3_2.png", "images/proj3_3.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://awillem.github.io/project-4-oop-game-show-app/",
             "github_link": "https://github.com/awillem/project-4-oop-game-show-app",
-            "image_urls": []
+            "image_urls": ["images/proj4_main.png", "images/proj4_1.png", "images/proj4_2.png", "images/proj4_3.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["JavaScript", "HTML", "CSS", "JSON"],
             "live_link": "https://awillem.github.io/project-5-public-api-requests/",
             "github_link": "https://github.com/awillem/project-5-public-api-requests",
-            "image_urls": []
-        },
+            "image_urls": ["images/proj5_main.png", "images/proj5_1.png", "images/proj5_2.png", "images/proj5_3.png"]
+        }
     ]
 }
