@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "In the Random Quote Generator, I created an array of quotes with additional information.  Using vanilla JavaScript, I have a random quote displayed to the screen when the 'Show Another Quote' button is clicked.  Each time a new quote appears, the background color changes to a random value.  Finally, the quotes are set up to automatically change after a set amount of time.", 
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://awillem.github.io/project-1-random-quote-generator/",
+            "github_link": "https://github.com/awillem/project-1-random-quote-generator",
+            "image_urls": []
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination",
+            "description": "In this project, I started with a page of 64 students displayed.  Using vanilla JavaScript, I unobtrusively added the pagination links on the page and set each link to show 10 students.  The links are based on the total number of students displayed, so if the file contains a lesser or greater amount of students, the amount of links will change.  I add a search field that searches through student names. This field works on a keyup event , so results are show as the user types.  As the results are returned, the pagination links displayed will reflect the search result total.", 
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://awillem.github.io/project-2-list-pagination/",
+            "github_link": "https://github.com/awillem/project-2-list-pagination",
+            "image_urls": []
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This project is a personal favorite of mine.  The HTML and CSS files provide with this project gave me the form that you see, and I add functionality and validation to it.  The form will not submit if it doesn't include 4 key pieces of information: Name, Email, 1 or more activities, and a valid payment method.  The email field has basic validation as you type.  The Job Role has an additional input field that appears if 'Other' is selected, while the T-shirt area will show a 'Color' selection once a tshirt design is selected.  The colors shown are specific to the tshirt design. The Register for Activities section requires at least one event selection, and only one activity in the same time slot can be selected.  As activities are selected, a Total appears under the activities.  Finally, the credit card requires all fields to be filled in, not contain letters, and must be a valid length.", 
+            "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+            "live_link": "https://awillem.github.io/project-3-interactive-form/",
+            "github_link": "https://github.com/awillem/project-3-interactive-form",
+            "image_urls": []
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show",
+            "description": "The OOP Game Show project creates a phrase guessing game.  On clicking 'Start Game', the user is presented with a random phrase from an array to guess, an on screen keyboard, and 5 hearts.  The game works with input from the on screen keyboard, or from the user's physical keyboard.  As the user makes wrong choices, their hearts disappear.  Once they either guess correctly, or lose all their hearts, they are taken to the Game Over screen where either a win or lose message is shown along with a reset button, which generates a new phrase to guess.", 
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://awillem.github.io/project-4-oop-game-show-app/",
+            "github_link": "https://github.com/awillem/project-4-oop-game-show-app",
+            "image_urls": []
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "One of the reasons I began taking structured classes for JavaScript was a desire to learn to use information from an API and this project gave me those skills.  This project started as a blank slate, with the original page only showing 'Awesome Startup Employee Directory'. I pulled the JSON information for 12 random employees from the RandomUser.me database. The page shows the image, name, email, and location for the 12 employees.  When clicking on an employee's card, a modal window appears with additional information.  These modal windows can be navigated with next and prev buttons.  Finally, I added a search field that searches through emplyee names as you type.", 
+            "technologies": ["JavaScript", "HTML", "CSS", "JSON"],
+            "live_link": "https://awillem.github.io/project-5-public-api-requests/",
+            "github_link": "https://github.com/awillem/project-5-public-api-requests",
+            "image_urls": []
+        },
+    ]
+}
