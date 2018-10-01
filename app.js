@@ -8,11 +8,7 @@ app.use('/images', express.static('images'));
 
 app.set('view engine', 'pug');
 
-// app.use((req, res, next) => {
-//     if(projects.length === 0) {
-        
-//     }
-// });
+
 
 app.get ('/', (req, res) => {
     
