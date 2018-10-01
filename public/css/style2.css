@@ -1,0 +1,74 @@
+body {
+    background: #afeeee;
+  }
+
+  h1,h2,h3,h4,h5{
+    font-family: 'Mr Bedfort', cursive;    
+    text-shadow: 2px 2px 3px #666;
+  }
+
+  p, h6 {
+      font-family: 'Josefin Slab', serif;
+      color: #333;
+  }
+
+  .text-light {
+      color: #555;
+  }
+  
+    h5{
+      font-family: 'Josefin Slab', serif;
+      letter-spacing: 2.5px;
+      -webkit-text-transform: uppercase;
+      text-transform: uppercase;
+    }
+  
+    h6{
+      letter-spacing: 2.5px;
+      -webkit-text-transform: uppercase;
+      text-transform: uppercase;
+      font-weight: 600;        
+     text-shadow: 1px 1px 2px #444;
+    }
+
+    .portfolio-intro p{
+        border-bottom: 2px solid #ff6666;
+    }
+
+    div.off-canvas-content article.portfolio-project {
+        border-bottom: none;
+    }
+
+.lead {
+    font-size: 135%;
+}
+
+div.portfolio-bio p {
+    font-size: 17px;
+}
+
+.thumbnail, .image {
+    
+  border: solid 4px #fff;
+  border-radius: 2px;
+}
+
+.portfolio-me {
+    background: #008080;
+}
+
+.portfolio-me p {
+    color: #111;
+    font-size: 18px;
+    text-shadow: 2px 2px 2px #777;
+}
+
+.portfolio-me a {
+    color: #333;
+    font-size: 15px;
+    text-shadow: 2px 2px 2px #666;
+}
+
+.portfolio-breadcrumb{
+    border-bottom: 2px solid #ff6666;
+  }
