@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "In the Random Quote Generator, I created an array of quotes with additional information.  Using vanilla JavaScript, I have a random quote displayed to the screen when the 'Show Another Quote' button is clicked.  Each time a new quote appears, the background color changes to a random value.  Finally, the quotes are set up to automatically change after a set amount of time.", 
+            "description": "In the Random Quote Generator, the page is designed to give a random quote with the source, year, and genre.  The quotes will change after a set interval, or a user can request a new one with the "Show another quote" button. With each change of quote, a new background color is used.  The page was created using vanilla javascript.", 
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://awillem.github.io/project-1-random-quote-generator/",
             "github_link": "https://github.com/awillem/project-1-random-quote-generator",
@@ -43,6 +43,15 @@
             "technologies": ["JavaScript", "HTML", "CSS", "JSON"],
             "live_link": "https://awillem.github.io/project-5-public-api-requests/",
             "github_link": "https://github.com/awillem/project-5-public-api-requests",
+            "image_urls": ["images/proj5_main.png", "images/proj5_1.png", "images/proj5_2.png", "images/proj5_3.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "Static Node JS",
+            "description": "This project is actually the creation of this portfolio.  This project was set up using Node.js and pug templates to display a main page with links to each of my projects, an about page, and individual pages for each of the projects.  The individual pages each include pictures from the project and a link to both the GitHub Repo as well as a link to a live demo hosted either through GitHub Pages or Heroku. ", 
+            "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Express", "Pug", "Node"],
+            "live_link": "https://morning-fjord-64341.herokuapp.com/",
+            "github_link": "https://github.com/awillem/project-6-node-and-express",
             "image_urls": ["images/proj5_main.png", "images/proj5_1.png", "images/proj5_2.png", "images/proj5_3.png"]
         }
     ]
